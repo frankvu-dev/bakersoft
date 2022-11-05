@@ -1,0 +1,11 @@
+{
+  "validPassword": "s3cret",
+  "validFirstName": "Angelina",
+  "validLastName": "Jolie",
+  "validState" : "Alaska", 
+  "validCity": "Bremen",
+  "validZipcode": "28217",
+  "validAddress": "Konsul-Smidt-Str. 8 R",
+  "validPhoneNumber": "0049999999999",
+  "existingEmail": "bakersoft05112022@testmail.com"
+}
