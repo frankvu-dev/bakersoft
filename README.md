@@ -1,6 +1,3 @@
-# bakersoft
-Assignment solution for BakerSoft
-
 Requirements:
 1. Install npm: https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
 2. Install Chrome, Firefox, Edge or Electron browser on machine where the test is run
